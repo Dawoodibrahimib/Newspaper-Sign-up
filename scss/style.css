@@ -157,7 +157,7 @@ input {
     -o-object-fit: fill;
        object-fit: fill;
     width: 100%;
-    content: url("/assets/images/illustration-sign-up-desktop.svg");
+    content: url("./assets/images/illustration-sign-up-desktop.svg");
     position: relative;
     right: 15px;
     top: 20px;
